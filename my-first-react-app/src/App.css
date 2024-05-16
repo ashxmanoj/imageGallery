@@ -1,0 +1,6 @@
+.imageScroller {
+    display: flex;
+    overflow-x: scroll;
+    padding: 0;
+    
+  }
